@@ -1,0 +1,4 @@
+﻿<Excursionistas>
+	<Excursionista Nombre="Sergio" Apellidos="Pardo Fernández" Edad="20" Telefono="666112233" Email="sergiopardo@gmail.com" Imagen="Imagenes/sergio_excursionista.jpg"/>
+	<Excursionista Nombre="Carlos" Apellidos="Parente Ramírez" Edad="29" Telefono="678990125" Email="carlosparente@outlook.com" Imagen="Imagenes/carlos_excursionista.jpg"/>
+</Excursionistas>

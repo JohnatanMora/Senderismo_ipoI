@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Ayuda>
+	<Ayuda Titulo="No sé iniciar sesión en la aplicación." Contenido="Para iniciar sesión en la aplicación, deberás utilizar tu nombre de administrador (Si no lo sabes es: 'admin') y acto seguido, poner la contraseña. Después debes pulsar sobre el botón 'ACCEDER' y entrarás a la aplicación."/>
+	<Ayuda Titulo="He olvidado mi contraseña." Contenido="Si sabes tu nombre de usuario pero no tu contraseña, debes darle a '¿Olvidaste tu contraseña', y ahí te indicará tu contraseña."/>
+	<Ayuda Titulo="Quiero cambiar el tema a oscuro/claro." Contenido="Para cambiar el tono de colores de oscuro a claro o viceversa, debes dirigirte al botón preferencias ubicado abajo derecha si estás en la ventana de login, y abajo izquierda si ya estás dentro de la aplicación. Ahí habrá un tick donde podrás habilitar o deshabilitar el tema oscuro. Después debes darle a 'APLICAR' para que los cambios surjan efecto."/>
+	<Ayuda Titulo="¿Cómo puedo saber mis datos?" Contenido="Para conocer tus datos personales, debes fijarte debajo de tu foto, a la izquierda de la pantalla. Ahí habrá un 'Datos Usuario', si haces click en la flecha de la izquierda, podrás visualizar cualquier dato asociado a tu cuenta."/>
+	<Ayuda Titulo="¿Cómo puedo cerrar sesión?" Contenido="Si estás dentro de la aplicación, abajo a la izquierda tendrás un botón de cerrar sesión, tras pulsarlo podrás confirmar que quieres cerrar sesión en un cuadro de diálogo. Al pulsar en 'Sí', saldrás directamente de nuevo a la ventana del login."/>
+	<Ayuda Titulo="Para todo lo relacionado con la ventana 'Rutas'" Contenido="• Añadir una ruta
+Para añadir una ruta debes dar al icono que simboliza un '+' y rellenar los campos. Después de todo eso debes dar al botón de confirmación
+
+• Eliminar una ruta 
+Para eliminar una ruta debes dar al icono que simboliza una papelera, donde saltará un cuadro de confirmación para confirmarlo. Pulsa en 'Sí' para eliminar dicha ruta.
+
+• Modificar una ruta
+Para modificar una ruta debes dar al icono que simboliza un papel con un bolígrafo, se habilitará entonces la opción de modificar los campos. Cuando consideres oportuno, debes dar al botón de confirmación. (Tick verde)
+
+• Añadir puntos de interés a una ruta.
+Para añadir un punto de interés a una ruta debes dar al icono que simboliza un mapa con un punto, entrarás en una nueva pestaña en la que podrás ver todos los puntos de interés de la ruta y añadir o eliminar cualquier punto, agregando si se quisiese imágenes. Después, se deberá confirmar la acción pulsando en el botón con el tick verde.
+
+• Añadir excursionista a una ruta.
+Para añadir un excursionista a una ruta debes dar al icono que simboliza una persona junto a '+', ahí puedes seleccionar cualquier excursionista y añadirlo a la ruta en cuestión. Recuerda que, debes confirmarlo con el botón con el tick verde.
+
+• Asignar un guía a una ruta.
+Para asignar un guía a una ruta debes dar al icono que simboliza a una persona junto a una bandera, lo reconocerás por ser el último icono a la derecha. Ahí debes seguir el mismo procedimiento que el anterior (Añadir excursionista a una ruta)."/>
+	<Ayuda Titulo="Para todo lo relacionado con la ventana 'Guías'" Contenido="En cuanto a esta ventana, si deseas tanto añadir un guía como modificarlo o eliminarlo, podrás seguir los mismos pasos que los especificados en la ayuda de la ventana 'Rutas'."/>
+	<Ayuda Titulo="Para todo lo relacionado con la ventana 'Excursionistas:" Contenido="En cuanto a esta ventana, si deseas tanto añadir un excursionista como modificarlo o eliminarlo, podrás seguir los mismos pasos que los especificados en la ayuda de la ventana 'Rutas'."/>
+</Ayuda>

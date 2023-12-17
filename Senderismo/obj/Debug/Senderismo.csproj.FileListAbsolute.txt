@@ -1,0 +1,228 @@
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.AssemblyReference.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Estilos.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Estilos.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\MainWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\App.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.lref
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\bin\Debug\Senderismo.exe.config
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\bin\Debug\Senderismo.exe
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\bin\Debug\Senderismo.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\App.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\MainWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Senderismo.g.resources
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Senderismo.Properties.Resources.resources
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.GenerateResource.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CoreCompileInputs.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Senderismo.exe
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\Senderismo.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\AyudaWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\AyudaWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\PrincipalWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\ProyectoFinal\Senderismo\Senderismo\obj\Debug\PrincipalWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.exe.config
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.AssemblyReference.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Estilos.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\AyudaWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Estilos.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\MainWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\PrincipalWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\App.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.lref
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\App.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\AyudaWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\MainWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\PrincipalWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.g.resources
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.Properties.Resources.resources
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.GenerateResource.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\Primer Cuatrimestre\IPO\ProyectoFinal\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CopyComplete
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\bin\Debug\Senderismo.exe.config
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\bin\Debug\Senderismo.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\bin\Debug\Senderismo.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.AssemblyReference.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Estilos.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\AyudaWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Estilos.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\MainWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\PrincipalWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\App.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.lref
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\App.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\AyudaWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\MainWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\PrincipalWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo.g.resources
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo.Properties.Resources.resources
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.GenerateResource.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CopyComplete
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Documentos\Universidad\3º\TERCERO_OTRO\Senderismo\Senderismo\obj\Debug\Senderismo.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.exe.config
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.exe
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.dll
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.xml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.AssemblyReference.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Estilos.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\AyudaWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Estilos.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\MainWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\PrincipalWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\App.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.lref
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\App.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\AyudaWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\MainWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\PrincipalWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.g.resources
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.Properties.Resources.resources
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.GenerateResource.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CoreCompileInputs.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CopyComplete
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.exe
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.exe.config
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.AssemblyReference.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Estilos.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\AyudaWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Estilos.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\MainWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\PrincipalWindow.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\App.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.lref
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\App.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\AyudaWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\MainWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\PrincipalWindow.baml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.g.resources
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.Properties.Resources.resources
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.GenerateResource.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CopyComplete
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.exe.config
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.exe
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\bin\Debug\Senderismo.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.dll
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.xml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.AssemblyReference.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Estilos.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\AyudaWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Estilos.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\MainWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\PrincipalWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\App.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.lref
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\App.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\AyudaWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\MainWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\PrincipalWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.g.resources
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.Properties.Resources.resources
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.GenerateResource.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CoreCompileInputs.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CopyComplete
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.exe
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo1\Senderismo\Senderismo\Senderismo\obj\Debug\Senderismo.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\bin\Debug\Senderismo.exe.config
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\bin\Debug\Senderismo.exe
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\bin\Debug\Senderismo.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.dll
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.xml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.AssemblyReference.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Estilos.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\AyudaWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Estilos.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\MainWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\PrincipalWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\App.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.lref
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\App.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\AyudaWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\MainWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\PrincipalWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo.g.resources
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo.Properties.Resources.resources
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.GenerateResource.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CoreCompileInputs.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CopyComplete
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo.exe
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Senderismo\Senderismo\obj\Debug\Senderismo.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\bin\Debug\Senderismo.exe.config
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\bin\Debug\Senderismo.exe
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\bin\Debug\Senderismo.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.dll
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.pdb
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\bin\Debug\WpfAnimatedGif.xml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.AssemblyReference.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Estilos.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\AyudaWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Estilos.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\MainWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\PrincipalWindow.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\App.g.cs
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo_MarkupCompile.lref
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\App.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\AyudaWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\MainWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\PreferenciasWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\PrincipalWindow.baml
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo.g.resources
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo.Properties.Resources.resources
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.GenerateResource.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CoreCompileInputs.cache
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo.csproj.CopyComplete
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo.exe
+D:\Universidad\3ºC\1º Cuatrimestre\Interacción Persona-Ordenador I\Laboratorio\Senderismo\Senderismo\obj\Debug\Senderismo.pdb

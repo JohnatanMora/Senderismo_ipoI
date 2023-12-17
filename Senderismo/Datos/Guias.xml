@@ -1,0 +1,6 @@
+﻿<Guias>
+	<Guia Nombre="Jesús" Apellidos="García Peñuela" Imagen="Imagenes/guia1.jpg" Idiomas="Español, Inglés" Disponibilidad="Lunes: 10:00-14:00 y 16:00-20:30, Miércoles: 9:30-12:00 y 17:00-20:30, Jueves: 9:30-14:00 y 16:00-20:30" Telefono="661223344" Email="jesus_garciap@gmail.com" Valoracion="7"/>
+	<Guia Nombre="José Francisco" Apellidos="Gómez-Calcerrada Álvarez" Imagen="Imagenes/guia2.jpg" Idiomas="Español, Francés" Disponibilidad="Martes: 9:30-14:00 y 16:00-20:30, Miércoles: 9:30-14:00, Viernes: 9:30-14:00 y 16:00-20:30" Telefono="701928374" Email="josefrancisco_gomez@outlook.es" Valoracion="8.5"/>
+	<Guia Nombre="Gema" Apellidos="González Aponte" Imagen="Imagenes/guia3.jpg" Idiomas="Español, Inglés, Francés, Alemán" Disponibilidad="Lunes: 16:00-20:30, Miércoles: 12:00-14:00, Jueves: 9:30-14:00, Viernes: 16:00-20:30" Telefono="691234567" Email="gema_gonzalez@gmail.com" Valoracion="9"/>
+	<Guia Nombre="Pablo" Apellidos="Camacho Molina" Imagen="Imagenes/guia4.jpg" Idiomas="Español" Disponibilidad="Martes: 10:00-14:00 y 16:00-20:30,Jueves: 11:30-14:00,Viernes: 9:30-14:00" Telefono="600102828" Email="pablo_camacho@yahoo.es" Valoracion="6"/>
+</Guias>

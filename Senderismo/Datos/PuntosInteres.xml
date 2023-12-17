@@ -1,0 +1,6 @@
+﻿<PuntosInteres>
+	<PuntoInteres Nombre="Puente Romano" Descripcion="Por debajo pasa el río patata." Tipologia="Puente" Imagen="{Imagenes/puente_romano.jpg,Imagenes/puente_romano2.jpg,Imagenes/puente_romano3.jpg}"/>
+	<PuntoInteres Nombre="Pasarela" Descripcion="Pasarela que comunica los dos senderos." Tipologia="Puente" Imagen="{Imagenes/pasarela.jpg,Imagenes/pasarela2.jpg}"/>
+	<PuntoInteres Nombre="Molino de viento" Descripcion="Molinos que podemos divisar en nuestra ruta." Tipologia="Edificios emblemáticos" Imagen="{Imagenes/molinos1.jpg,Imagenes/molinos2.jpg}"/>
+	<PuntoInteres Nombre="Puente verde" Descripcion="Para cruzar el río Cares" Tipologia="Puente" Imagen="{Imagenes/puenCa1.jpg,Imagenes/puenCa2.jpg}"/>
+</PuntosInteres>

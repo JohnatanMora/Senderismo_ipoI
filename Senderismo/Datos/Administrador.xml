@@ -1,0 +1,3 @@
+﻿<Administradores>
+	<Administrador Usuario="admin" Contrasenia="admin" Nombre="Administrador" Apellidos="Administrador" FechaDeNacimiento="17/08/1979" Email="administrador@uclm.es" Telefono="654321987" Pais="España" Imagen="Imagenes/Admin.jpg" UltimoAcceso="-1"/>
+</Administradores>

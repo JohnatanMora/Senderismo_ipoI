@@ -1,0 +1,217 @@
+﻿<ResourceDictionary x:Class="Senderismo.Estilos"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Colores claros -->
+    <SolidColorBrush x:Key="fondoClaro" Color="#fff1b2"/>
+    <SolidColorBrush x:Key="fondoVerdeClaro" Color="#DAF7A6"/>
+    <SolidColorBrush x:Key="fondoVerdeSuClaro" Color="#f4fce1"/>
+    <SolidColorBrush x:Key="fondoVerdeClaroAlt" Color="#97D689"/>
+    <SolidColorBrush x:Key="fondoVerdeAm" Color="#D0EC69"/>
+    <SolidColorBrush x:Key="fondoVerdeAt" Color="#E1FF74"/>
+    <SolidColorBrush x:Key="fondoVerdeOs" Color="#d7ed9a"/>
+    <SolidColorBrush x:Key="fondoOscuro" Color="#417804"/>
+    <SolidColorBrush x:Key="fondoVerdeOscuro" Color="#00bd33"/>
+    <SolidColorBrush x:Key="fondoVerdeGG" Color="#85ff94"/>
+
+
+    
+
+
+
+    <LinearGradientBrush x:Key="TabItem.Static.Background" EndPoint="0,1" StartPoint="0,0">
+        <GradientStop Color="#F0F0F0" Offset="0.0"/>
+        <GradientStop Color="Green" Offset="1.0"/>
+    </LinearGradientBrush>
+    <SolidColorBrush x:Key="TabItem.Static.Border" Color="#ACACAC"/>
+    <LinearGradientBrush x:Key="TabItem.MouseOver.Background" EndPoint="0,1" StartPoint="0,0">
+        <GradientStop Color="#ECF4FC" Offset="0.0"/>
+        <GradientStop Color="#DCECFC" Offset="1.0"/>
+    </LinearGradientBrush>
+    <SolidColorBrush x:Key="TabItem.MouseOver.Border" Color="#7EB4EA"/>
+    <SolidColorBrush x:Key="TabItem.Disabled.Background" Color="#F0F0F0"/>
+    <SolidColorBrush x:Key="TabItem.Disabled.Border" Color="#D9D9D9"/>
+    <SolidColorBrush x:Key="TabItem.Selected.Border" Color="#ACACAC"/>
+    <SolidColorBrush x:Key="TabItem.Selected.Background" Color="Red"/>
+
+
+    <!-- Colores oscuros -->
+    <SolidColorBrush x:Key="fondoNegro" Color="#000000"/>
+    <SolidColorBrush x:Key="fondoGris" Color="#D1D1D1"/>
+
+
+    <!-- Formatos elementos --> 
+    
+    <Style x:Key="LabelStyle" TargetType="Label">
+        <Setter Property="Foreground" Value="{DynamicResource fondoNegro}"/>
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <Setter Property="FontWeight" Value="SemiBold"/>
+        
+    </Style>
+    <Style x:Key="GridStyle" TargetType="Grid">
+        <Setter Property="Background" Value="{DynamicResource fondoVerdeGG}"/>
+    </Style>
+
+    <Style x:Key="LabelTituloStyle" TargetType="Label">
+        <Setter Property="Foreground" Value="{DynamicResource fondoNegro}"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/> 
+        <Setter Property="VerticalAlignment" Value="Top"/> 
+    </Style>
+
+
+
+    <Style x:Key="TabControlStyle" TargetType="TabControl">
+        <Setter Property="Background" Value="White"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontFamily" Value="Verdana"/>
+        <Setter Property="Template" >
+            <Setter.Value>
+                <ControlTemplate TargetType="TabControl">
+                    <Grid SnapsToDevicePixels="True">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <TabPanel Grid.Row="0" Background="Transparent"
+                                      IsItemsHost="True" HorizontalAlignment="Center"/>
+                        <Border Grid.Row="1" CornerRadius="5" BorderThickness="{TemplateBinding BorderThickness}"
+                                    BorderBrush="{TemplateBinding BorderBrush}" Background="{TemplateBinding Background}">
+                            <ContentPresenter ContentSource="SelectedContent" SnapsToDevicePixels="True"
+                                                  Margin="{TemplateBinding Padding}"/>
+                        </Border>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+ 
+
+
+
+
+    <Style x:Key="TabItemStyle" TargetType="TabItem">
+        <Setter Property="Background" Value="#e6ffe9"/>
+        <Setter Property="Foreground" Value="{DynamicResource fondoNegro}"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Margin" Value="0 0 5 0"/>
+        <Setter Property="Width" Value="160"/>
+        <Setter Property="Height" Value="40"/>
+        <Setter Property="Padding" Value="10 10"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontSize" Value="15"/>
+        
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="HorizontalAlignment" Value="Center"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="TabItem">
+                    <Grid SnapsToDevicePixels="True">
+                        <Border CornerRadius="5"
+                                    Background="{TemplateBinding Background}"
+                                    BorderThickness="{TemplateBinding BorderThickness}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    Margin="{TemplateBinding Margin}"/>
+                        <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"
+                                              SnapsToDevicePixels="True"
+                                              RecognizesAccessKey="True"
+                                              Margin="{TemplateBinding Padding}"
+                                              ContentSource="Header"
+                                              Focusable="False"/>
+
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="{DynamicResource fondoVerdeOs}"/>
+                            <Setter Property="Foreground" Value="{DynamicResource fondoNegro}"/>
+                        </Trigger>
+                        <Trigger Property="IsSelected" Value="True">
+                            <Setter Property="Background" Value="{DynamicResource fondoVerdeOs}"/>
+                            <Setter Property="Foreground" Value="{DynamicResource fondoNegro}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="ExpanderStyle" TargetType="Expander">
+        <Setter Property="Foreground" Value="{DynamicResource fondoNegro}"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+
+
+    <Style x:Key="TextBoxStyle" TargetType="TextBox">
+        <Setter Property="Background" Value="{DynamicResource fondoVerdeSuClaro}"/>
+        <Setter Property="BorderBrush" Value="{DynamicResource fondoVerdeClaro}"/>
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="FontWeight" Value="Normal"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <Setter Property="VerticalAlignment" Value="Bottom"/>
+    </Style>
+
+    <Style x:Key="DatePickerStyle" TargetType="DatePicker">
+        <Setter Property="Background" Value="{DynamicResource fondoVerdeSuClaro}"/>
+        <Setter Property="BorderBrush" Value="{DynamicResource fondoVerdeClaro}"/>
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="FontWeight" Value="Normal"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="0"/>
+        <Setter Property="VerticalAlignment" Value="Bottom"/>
+    </Style>
+
+    <Style x:Key="ListBoxStyle" TargetType="ListBox">
+        <Setter Property="Background" Value="{DynamicResource fondoVerdeSuClaro}"/>
+        <Setter Property="BorderBrush" Value="{DynamicResource fondoVerdeClaro}"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+        <Setter Property="VerticalAlignment" Value="Bottom"/>
+    </Style>
+
+
+    <Style x:Key="ButtonStyleLogin" TargetType="Button">
+        <Setter Property="Background" Value="{DynamicResource fondoGris}"/>
+        <Setter Property="BorderBrush" Value="{DynamicResource fondoNegro}"/>
+        <Setter Property="VerticalAlignment" Value="Bottom"/>
+        <Setter Property="Width" Value="188"/>
+        <Setter Property="Height" Value="44"/>
+        <Setter Property="Cursor" Value="Hand"/>
+    </Style>
+
+    <Style x:Key="ButtonStyle" TargetType="Button">
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+        <Setter Property="Width" Value="200"/>
+        <Setter Property="Height" Value="60"/>
+        <Setter Property="Margin" Value="0,0,0,0"/>
+        <Setter Property="Cursor" Value="Hand"/>
+    </Style>
+
+
+ 
+    <Style x:Key="GroupBoxStyle" TargetType="GroupBox">
+        <Setter Property="Background" Value="DarkOliveGreen"/>
+        <Setter Property="Foreground" Value="{DynamicResource fondoNegro}"/>
+        <Setter Property="BorderBrush" Value="{DynamicResource fondoVerdeOs}"/>
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        
+    </Style>
+
+
+
+</ResourceDictionary>
